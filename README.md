@@ -5,7 +5,7 @@ Before working with Java professionally, I've mainly had (hobbyist) experience w
 
 
 Some of my hobbies and interests include:
- * Programming, theoretical Computer Science and tech in general 👨‍💻
+ * Programming, Computer Science and tech in general 👨‍💻
  * Playing the guitar (mainly Thrash metal) 🎸
  * Learning Japanese (今日本語能力試験N5を勉強します) 🗾
  
