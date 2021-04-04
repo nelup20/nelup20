@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Nelu.
 
 I'm a junior software developer working primarily in Java.
-Before working with Java professionally, I've mainly had (hobbyist) experience with Javascript and Python. Currently learning C and Assembly, going to learn other fundamental/theoretical CS topics in the near future (following curriculum from teachyourselfcs.com + a couple extra topics)
+Before working with Java professionally, I've mainly had (hobbyist) experience with Javascript and Python. Currently learning C and Assembly, going to learn other fundamental/theoretical CS topics in the near future (following the curriculum from teachyourselfcs.com + a couple extra topics)
 
 
 Some of my hobbies and interests include:
