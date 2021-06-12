@@ -1,7 +1,7 @@
-### Hi there 👋, I'm Nelu.
+# Hi there 👋, I'm Nelu.
 
-### About 🤖
-***
+## About 🤖
+
 I'm a junior software developer working primarily in Java.
 Before working with Java professionally, I've mainly had (hobbyist) experience with Javascript and Python. Currently, I'm learning C and also android dev with Java. I'm planning to learn other fundamental/theoretical CS topics in the near future (following the curriculum from teachyourselfcs.com + a couple extra topics)
 
@@ -11,8 +11,8 @@ Some of my hobbies and interests include:
  * Playing the guitar (mainly Thrash metal) 🎸
  * Learning Japanese (今日本語能力試験N5を勉強します) 🗾
  
-### Technologies 💻
-***
+## Technologies 💻
+
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
@@ -30,8 +30,8 @@ Some of my hobbies and interests include:
 
 
 
-### GitHub Stats 📊
-***
+## GitHub Stats 📊
+
 ![GitHubStats](https://github-readme-stats.vercel.app/api?username=nelup20&theme=blue-green)
 
 ![MostUsedLanguages](https://github-readme-stats.vercel.app/api/top-langs/?username=nelup20&theme=blue-green)
