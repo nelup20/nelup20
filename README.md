@@ -3,7 +3,7 @@
 ## About 🤖
 
 I'm a junior software developer working primarily in Java.
-Before working with Java professionally, I've mainly had (hobbyist) experience with Javascript and Python. Currently, I'm learning C and also android dev with Java. I'm planning to learn other fundamental/theoretical CS topics in the near future (following the curriculum from teachyourselfcs.com + a couple extra topics)
+Before working with Java professionally, I've mainly had (hobbyist) experience with JavaScript and Python. Currently, I'm learning C and also android dev with Java. I'm planning to learn other fundamental/theoretical CS topics in the near future (following the curriculum from teachyourselfcs.com + a couple extra topics)
 
 
 Some of my hobbies and interests include:
@@ -13,7 +13,7 @@ Some of my hobbies and interests include:
  
 ## Technologies 💻
 
-![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
