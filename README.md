@@ -10,6 +10,7 @@ Things/Topics I'm currently learning:
  * Data structures & algorithms
  * Computer Architecture
  * "Programming" i.e. reading the SICP book 
+
 I'm planning to learn other fundamental/theoretical CS topics in the near future (following the curriculum from teachyourselfcs.com + a couple extra topics)
 
 
