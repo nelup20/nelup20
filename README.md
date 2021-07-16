@@ -2,8 +2,15 @@
 
 ## About 🤖
 
-I'm a junior software developer working primarily in Java.
-Before working with Java professionally, I've mainly had (hobbyist) experience with JavaScript and Python. Currently, I'm learning C and also android dev with Java. I'm planning to learn other fundamental/theoretical CS topics in the near future (following the curriculum from teachyourselfcs.com + a couple extra topics)
+I'm a software developer working primarily in Java.
+Before working with Java professionally, I've mainly had (hobbyist) experience with JavaScript and Python. 
+Things/Topics I'm currently learning:
+ * C 
+ * Android dev with Java
+ * Data structures & algorithms
+ * Computer Architecture
+ * "Programming" i.e. reading the SICP book 
+I'm planning to learn other fundamental/theoretical CS topics in the near future (following the curriculum from teachyourselfcs.com + a couple extra topics)
 
 
 Some of my hobbies and interests include:
