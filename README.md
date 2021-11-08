@@ -3,7 +3,7 @@
 ## About 🤖
 
 I'm a software developer working primarily in Java.
-Before working with Java professionally, I've mainly had (hobbyist) experience with JavaScript and Python. 
+Before working professionally with Java, I've mainly had (hobbyist) experience with JavaScript and Python. 
 Things/Topics I'm currently learning:
  * C 
  * Android dev with Java
