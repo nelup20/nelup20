@@ -2,22 +2,7 @@
 
 ## About 🤖
 
-I'm a software developer working primarily in Java.
-Before working professionally with Java, I've mainly had (hobbyist) experience with JavaScript and Python. 
-Things/Topics I'm currently learning:
- * C 
- * Android dev with Java
- * Data structures & algorithms
- * Computer Architecture
- * "Programming" i.e. reading the SICP book 
-
-I'm planning to learn other fundamental/theoretical CS topics in the near future (following the curriculum from teachyourselfcs.com + a couple extra topics)
-
-
-Some of my hobbies and interests include:
- * Programming, computer science and tech in general 👨‍💻
- * Playing the guitar (mainly Thrash metal) 🎸
- * Learning Japanese (今日本語能力試験N5を勉強します) 🗾
+I'm a software dev. Largely self-taught. Currently learning theoretical/fundamental CS (following teachyourselfcs.com).
  
 ## Technologies 💻
 
