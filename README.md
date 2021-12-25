@@ -2,7 +2,7 @@
 
 ## About 🤖
 
-I'm a software dev. Largely self-taught. However, I did attend [Switchfully](https://switchfully.com/) (only in Belgium!), which allowed me to fill some gaps in my knowledge/skills, solidy my existing ones and kickstart my software dev career. Plus I had an awesome time there. 
+I'm a software dev. Largely self-taught. However, I did attend [Switchfully](https://switchfully.com/) (only in Belgium!), which allowed me to fill some gaps in my knowledge/skills, solidify my existing ones and kickstart my software dev career. Plus I had an awesome time there. 
 
 I'm currently learning theoretical/fundamental CS (following teachyourselfcs.com).
  
