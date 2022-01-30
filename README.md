@@ -34,6 +34,6 @@ I'm currently learning theoretical/fundamental CS (following teachyourselfcs.com
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=nelup20&theme=blue-green" alt="GithubStats" />
   </a>
   <a>
-    <img align="center" height="390px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nelup20&theme=blue-green" alt="LangStats" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nelup20&theme=blue-green" alt="LangStats" />
   </a>
 </p>
