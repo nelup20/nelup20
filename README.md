@@ -26,14 +26,8 @@ I'm currently learning theoretical/fundamental CS (following teachyourselfcs.com
 
 
 ## GitHub Stats 📊
-<p>
-  <a>
-    <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=nelup20&theme=blue-green" alt="StreakStats" />  
-  </a>
-  <a>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=nelup20&theme=blue-green" alt="GithubStats" />
-  </a>
-  <a>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nelup20&theme=blue-green" alt="LangStats" />
-  </a>
-</p>
+![StreakStats](https://github-readme-streak-stats.herokuapp.com/?user=nelup20&theme=blue-green)
+
+![GitHubStats](https://github-readme-stats.vercel.app/api?username=nelup20&theme=blue-green)
+
+![MostUsedLanguages](https://github-readme-stats.vercel.app/api/top-langs/?username=nelup20&langs_count=8&layout=compact&theme=blue-green)
